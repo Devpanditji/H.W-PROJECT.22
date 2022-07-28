@@ -89,7 +89,7 @@ function draw() {
         
          over = createSprite(width-700,280,20,20);
          over.addAnimation("gameover",gover);
-        over.scale= 1 ;
+        over.scale= 2 ;
      
     }
   }
